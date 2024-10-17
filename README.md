@@ -8,3 +8,4 @@
 - **Lớp**: DI2195A2
 ## 📧 Liên hệ
 Email: vub2103485@student.ctu.edu.vn
+✨ **Cảm ơn bạn đã xem thông tin của tôi!**
