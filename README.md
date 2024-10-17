@@ -6,3 +6,5 @@
 - **Ngày sinh**: 18/04/2003
 - **Chuyên ngành**: Hệ thống thông tin
 - **Lớp**: DI2195A2
+## 📧 Liên hệ
+Email: vub2103485@student.ctu.edu.vn
